@@ -8,4 +8,7 @@
 - 一个 配合课程每周开发任务的目录树
  
 
-测试同步
+测试同步:
+
+- gitbook to github: success
+- github to gitbook:
