@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* 搞定GitBook
 * [教学反转](0MOOC/README.md)
    * 测试
 * [基础旋进](1sTry/README.md)
