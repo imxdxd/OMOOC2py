@@ -6,5 +6,8 @@
     "plugins": [
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "imxdxd"
+        }
 }
