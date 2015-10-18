@@ -7,6 +7,7 @@
    * [MarkDown](0MOOC/md.md)
    * [GitHub](0MOOC/github.md)
    * [GitBook](0MOOC/gitbook.md)
+   * [Python](0MOOC/py.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
